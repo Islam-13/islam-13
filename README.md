@@ -20,17 +20,13 @@ Here are some ideas to get you started:
 
 <p dir="auto"> 
   <img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html 5 logo">
-  
   <img src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css 3 logo">
-  
   <img src="https://img.shields.io/badge/bootstrap-%238511FA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap logo">
-  
-<img src="https://camo.githubusercontent.com/6531a4161596e3d9fdab3d0499a7b7ce5c5c8b568be219f3e9707af042e575d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/c6a8e6bb10bfad37e21a5f9aa8cc365819a02ef8997972e10a333ed9be5f47e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333835313146412e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="Bootstrap" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/tailwind_css-%2338BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Bootstrap" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/742126d474d8314230c293fa38b2fa9ff827e5fac43d9808c561be5887a4fb5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534153532d686f7470696e6b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d53415353266c6f676f436f6c6f723d7768697465" alt="SASS" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/53ec2e58e03ba275d9b3a386abd96a243cf744a1a7121bdf8262fc8ae6ebc335/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/3babc94d778f96441b3a66615fb5ee88c6ed04f174ed49b04df92b071a7d0e80/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" alt="React" data-canonical-src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/06d936bcad9d3f9d0e611e9afa230ebdefcac4074b7d97c425a3346495db190c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656475782d2532333539336438382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465" alt="Redux" data-canonical-src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&amp;logo=redux&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/7e95531437f8c91626ae46cb69240160dfde5c39c1119c550cd174ba8a19e712/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" alt="MongoDB" data-canonical-src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/8bc77ae2c6ec0a97c7692ec54d53c49d3c4637e9c64ee63f7b45cf14a50e8177/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465" alt="Postman" data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" style="max-width: 100%;"></p>
+  <img src="https://img.shields.io/badge/tailwind_css-%2338BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind logo">
+  <img src="https://img.shields.io/badge/sass-%23FF69B4?style=for-the-badge&logo=sass&logoColor=white" alt="sass logo">
+  <img src="https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23EFD81D" alt="JavaScript logo">
+  <img src="https://img.shields.io/badge/typescript-%23323330?style=for-the-badge&logo=typescript&logoColor=%232F74C0" alt="TypeScript logo" >
+  <img src="https://img.shields.io/badge/react-%2320232A?style=for-the-badge&logo=react&logoColor=%23087EA4" alt="React logo" >
+  <img src="https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=%2378CFF5" alt="JQuery logo" >
+  <img src="https://img.shields.io/badge/postman-%23ff6c37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+</p>
