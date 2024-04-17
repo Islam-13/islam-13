@@ -4,9 +4,9 @@
 
 <p dir="auto">
   
-  <a href="https://medium.com/@beyzakeser" rel="nofollow"><img src="https://camo.githubusercontent.com/1ffa337ac42b00eed7c4a0bc64348b84ceb17dafb0baa989e868bf752baa4f74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d3132313030453f6c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" alt="Medium" data-canonical-src="https://img.shields.io/badge/Medium-12100E?logo=medium&amp;logoColor=white" style="max-width: 100%;"></a> 
+  <a href="https://www.linkedin.com/in/islam-hussen" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230769AD?style=plastic&logo=linkedin" alt="LinkedIn"></a></p>
   
-  <a href="https://www.linkedin.com/in/islam-hussen" rel="nofollow"><img src="https://img.shields.io/badge/linkedin-%230769AD?style=plastic&logo=linkedin" alt="LinkedIn"></a></p>
+  <a href="https://wa.me/+201033239019" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%2325d366?style=plastic&logo=whatsapp&logoColor=white" alt="whatsapp"></a></p>
 
 <!--
 **Islam-13/islam-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
