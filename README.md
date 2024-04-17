@@ -1,13 +1,5 @@
 ### Hi 👋, I'm Islam Mo'men.
 
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🌐 Socials:</h2><a id="user-content--socials" class="anchor" aria-label="Permalink: 🌐 Socials:" href="#-socials"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-
-<p dir="auto">
-  
-  <a href="https://www.linkedin.com/in/islam-hussen" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230769AD?style=plastic&logo=linkedin" alt="LinkedIn"></a></p>
-  
-  <a href="https://wa.me/+201033239019" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%2325d366?style=plastic&logo=whatsapp&logoColor=white" alt="whatsapp"></a></p>
-
 <!--
 **Islam-13/islam-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,4 +29,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/react-%2320232A?style=for-the-badge&logo=react&logoColor=%23087EA4" alt="React logo" >
   <img src="https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=%2378CFF5" alt="JQuery logo" >
   <img src="https://img.shields.io/badge/postman-%23ff6c37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+</p>
+
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🌐 Contact Me:</h2><a id="user-content--socials" class="anchor" aria-label="Permalink: 🌐 Socials:" href="#-socials"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+
+<p dir="auto">
+  <a href="https://www.linkedin.com/in/islam-hussen" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230769AD?style=plastic&logo=linkedin" alt="LinkedIn"></a> <a href="https://wa.me/+201033239019" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%2325d366?style=plastic&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
 </p>
