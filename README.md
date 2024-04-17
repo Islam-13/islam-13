@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Islam Mo'men.
 
 <p>
- 💫 A passionate <strong>Junior Front-end Developer</strong> with a strong foundation in web development technologies. My expertise lies in crafting user-friendly and interactive interfaces using <strong>React JS</strong>, while leveraging my knowledge of vanilla <strong>JavaScript</strong> for core functionalities. Additionally, I am proficient in styling frameworks like Bootstrap and Tailwind CSS to ensure consistent and responsive designs across diverse platforms.
+ 💫 A passionate <strong>Junior Front-end Developer</strong> with a strong foundation in web development technologies. My expertise lies in crafting user-friendly and interactive interfaces using <strong>React JS</strong>, while leveraging my knowledge of vanilla <strong>JavaScript</strong> for core functionalities. Additionally, I am proficient in styling frameworks like <strong>Bootstrap</strong> and <strong>Tailwind CSS</strong> to ensure consistent and responsive designs across diverse platforms.
 </p>
 <p>
  👨‍💻 All of my projects are available at https://github.com/Islam-13?tab=repositories
